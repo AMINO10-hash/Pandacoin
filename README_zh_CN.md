@@ -57,15 +57,9 @@ Pandacoin Core是一个开源的、社区驱动的软件。开发过程是公开
 *Master和maintenance分支只能通过发布来改变。计划中的*
 *发布将始终有一个开发分支，拉取请求应提交给那些分支。维护分支仅用于**修复错误，***请将新功能提交给具有最高版本的开发分支。
 
-## 贡献 🤝
+## 社区 🐼 
 
-如果您发现了错误或在使用此软件时遇到问题，请使用[问题系统](https://github.com/pepecoinppc/pepecoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+)报告它。
-
-请参阅[贡献指南](CONTRIBUTING.md)以了解如何参与Pepecoin Core的开发。通常会有[寻求帮助的主题](https://github.com/pepecoinppc/pepecoin/labels/help%20wanted)，您的贡献将产生很高的影响并得到很高的评价。
-
-## 社区 🐸
-
-您可以加入不同社交媒体上的社区。要了解正在发生什么，结识人们和讨论，找到最新的模因，了解Pepecoin，提供或寻求帮助，分享您的项目。
+您可以加入不同社交媒体上的社区。要了解正在发生什么，结识人们和讨论，找到最新的模因，了解Pandacoin，提供或寻求帮助，分享您的项目。
 
 以下是一些值得参观的地方:
 
@@ -74,9 +68,5 @@ Pandacoin Core是一个开源的、社区驱动的软件。开发过程是公开
 * [Telegram](https://t.me/PandacoinGroup)
 * [Twitter/X](https://twitter.com/PandacoinFnd)
 
-## 常见问题解答 ❓
-
-关于Pepecoin是否有问题？答案可能已经在[FAQ](doc/FAQ.md)或讨论板的[Q&A部分](https://github.com/pepecoinppc/pepecoin/discussions/categories/q-a)中。
-
 ## 许可证 ⚖️
-Pepecoin Core根据MIT许可证的条款发布。请参阅[COPYING](COPYING)获取更多信息或参阅[opensource.org](https://opensource.org/licenses/MIT)
+Pandacoin Core根据MIT许可证的条款发布。请参阅[COPYING](COPYING)获取更多信息或参阅[opensource.org](https://opensource.org/licenses/MIT)
