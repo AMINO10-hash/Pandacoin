@@ -44,13 +44,6 @@ Pandacoin Core默认使用端口`33874`进行对等通信，这对于同步“�
 ## 持续发展 💻
 
 Pandacoin Core是一个开源的、社区驱动的软件。开发过程是公开的，公开可见；任何人都可以看到、讨论和参与到这个软件中来。
-
-主要的开发资源:
-
-* [GitHub项目](https://github.com/pandacoinpdc/pepecoin/projects) 用于跟踪即将发布的版本的计划和正在进行中的工作。
-* [GitHub讨论](https://github.com/pandacoinpdc/pepecoin/discussions) 用于讨论与Pepecoin Core软件的开发、基础协议和PEPE资产相关的计划和非计划功能。
-* [PepecoinDev subreddit](https://www.reddit.com/r/pepecoindev/)
-
 ### 版本策略
 版本号遵循```主版本.次版本.修订版本```的语义。
 
