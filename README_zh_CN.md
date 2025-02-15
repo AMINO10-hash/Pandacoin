@@ -1,24 +1,24 @@
 <h1 align="center">
-<img src="https://i.imgur.com/DDkfI9i.png" alt="Pepecoin" width="300"/>
+<img src="https://i.imgur.com/a/EK4DSEB.png" alt="pandacoin" width="300"/>
 <br/><br/>
-Pepecoin Core [PEPE, Ᵽ]
+Pepecoin Core [Pandacoin, ⱣDC]
 </h1>
 
 选择语言: [EN](./README.md) | CN | [PT](./README_pt_BR.md) | [FA](./README_fa_IR.md) | [VI](./README_vi_VN.md) | [FR](./README_fr_FR.md) | [JA](./README_ja_JP.md) | [DE](./README_ger_DE.md)
 
-Pepecoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密货币。它被创建出于一个目的，就是创建一个像原始Dogecoin社区一样新奇有趣的社区。
+Pandacoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密货币。它被创建出于一个目的，就是创建一个像原始Dogecoin社区一样新奇有趣的社区。
 
-与之前的所有版本不同，Pepecoin是一个第一层的硬币。这意味着没有流动性池可以耗尽，没有列入黑名单的钱包，也没有令人困惑的智能合约。Pepecoin是一个简单的区块链。
+与之前的所有版本不同，Pepecoin是一个第一层的硬币。这意味着没有流动性池可以耗尽，没有列入黑名单的钱包，也没有令人困惑的智能合约。Pandacoin是一个简单的区块链。
 
-就像Dogecoin一样，Pepecoin Core软件允许任何人在Pepecoin区块链网络中操作节点，并使用Scrypt散列方法进行工作证明。它是从Bitcoin Core和其他加密货币中进行了改编。
+就像Dogecoin一样，Pandacoin Core软件允许任何人在Pandacoin区块链网络中操作节点，并使用Scrypt散列方法进行工作证明。它是从Bitcoin Core和其他加密货币中进行了改编。
 
-有关Pepecoin网络上使用的默认费用的信息，请参阅[费用建议](doc/fee-recommendation.md)。
+有关Pandacoin网络上使用的默认费用的信息，请参阅[费用建议](doc/fee-recommendation.md)。
 
-**网站:** [pepecoin.org](https://pepecoin.org)
+**网站:** [pandacoinfnd.org](https://pandacoinfnd.org)
 
 ## Dogecoin 差异
 
-Pepecoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试使 Pepecoin 保持与 Dogecoin 类似。
+Pepecoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试使 Pandacoin 保持与 Dogecoin 类似。
 
 变化：
 
@@ -29,13 +29,13 @@ Pepecoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试�
 
 ## 用法 💻
 
-要开始使用Pepecoin Core，请参阅[安装指南](INSTALL.md)和[入门教程](doc/getting-started.md)。
+要开始使用Pandacoin Core，请参阅[安装指南](INSTALL.md)和[入门教程](doc/getting-started.md)。
 
-Pepecoin Core提供的JSON-RPC API是自说明的，可以使用`pepecoin-cli help`进行浏览，而每个命令的详细信息可以使用`pepecoin-cli help <command>`查看。或者，参阅[比特币核心文档](https://developer.bitcoin.org/reference/rpc/) - 其实施了类似的协议 - 以获得可浏览的版本。
+Pandacoin Core提供的JSON-RPC API是自说明的，可以使用`pepecoin-cli help`进行浏览，而每个命令的详细信息可以使用`pepecoin-cli help <command>`查看。或者，参阅[比特币核心文档](https://developer.bitcoin.org/reference/rpc/) - 其实施了类似的协议 - 以获得可浏览的版本。
 
 ### 端口
 
-Pepecoin Core默认使用端口`33874`进行对等通信，这对于同步“主网”区块链并了解新的交易和区块信息是必要的。此外，可以打开一个JSONRPC端口，默认情况下为主网节点的端口`33873`。强烈建议不要将RPC端口暴露在公共互联网上。
+Pandacoin Core默认使用端口`33874`进行对等通信，这对于同步“主网”区块链并了解新的交易和区块信息是必要的。此外，可以打开一个JSONRPC端口，默认情况下为主网节点的端口`33873`。强烈建议不要将RPC端口暴露在公共互联网上。
 
 | 功能     | 主网    | 测试网  | regtest |
 | :------- | ------: | ------: | ------: |
@@ -44,12 +44,12 @@ Pepecoin Core默认使用端口`33874`进行对等通信，这对于同步“主
 
 ## 持续发展 💻
 
-Pepecoin Core是一个开源的、社区驱动的软件。开发过程是公开的，公开可见；任何人都可以看到、讨论和参与到这个软件中来。
+Pandacoin Core是一个开源的、社区驱动的软件。开发过程是公开的，公开可见；任何人都可以看到、讨论和参与到这个软件中来。
 
 主要的开发资源:
 
-* [GitHub项目](https://github.com/pepecoinppc/pepecoin/projects) 用于跟踪即将发布的版本的计划和正在进行中的工作。
-* [GitHub讨论](https://github.com/pepecoinppc/pepecoin/discussions) 用于讨论与Pepecoin Core软件的开发、基础协议和PEPE资产相关的计划和非计划功能。
+* [GitHub项目](https://github.com/pandacoinpdc/pepecoin/projects) 用于跟踪即将发布的版本的计划和正在进行中的工作。
+* [GitHub讨论](https://github.com/pandacoinpdc/pepecoin/discussions) 用于讨论与Pepecoin Core软件的开发、基础协议和PEPE资产相关的计划和非计划功能。
 * [PepecoinDev subreddit](https://www.reddit.com/r/pepecoindev/)
 
 ### 版本策略
@@ -77,10 +77,10 @@ Pepecoin Core是一个开源的、社区驱动的软件。开发过程是公开�
 
 以下是一些值得参观的地方:
 
-* [r/Pepecoin](https://www.reddit.com/r/pepecoin/)
-* [Discord](https://pepecoin.org/discord)
-* [Telegram](https://t.me/PepecoinGroup)
-* [Twitter/X](https://twitter.com/PepecoinNetwork)
+* [r/Pepecoin](https://www.reddit.com/r//)
+* [Discord](https://pandacoin.org/discord)
+* [Telegram](https://t.me/PandacoinGroup)
+* [Twitter/X](https://twitter.com/PandacoinFnd)
 
 ## 常见问题解答 ❓
 
