@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[(https://i.imgur.com/a/EK4DSEB.png)]" alt="Pandacoin" width="300"/>
+<img src="https://i.imgur.com/a/EK4DSEB.pn)" alt="Pandacoin" width="300"/>
 <br/><br/>
 Pandacoin Core [PANDA, ⱣDC]
 </h1>
