@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://i.imgur.com/a/EK4DSEB.png](https://media-hosting.imagekit.io//7b775aca1ca541e7/Picsart_25-02-15_16-49-23-474.png?Expires=1834260863&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bKahCdBfRC8MJspuUTK1v~rQMlFxMwSAv1pnun5iS4hUSLAcKfj6WdBiZD-gSwwtX-tVmPskpUZDwTigb8hAaKDBFKEdGRvp91hnTHD3QmQOONNPUoa2xwUG8owFZfBMlo-BzlaBgIg3US06MJK1cWhTYeoufuKxbjFLagXg2dK6xIoNEqcFl7F9HSMXolgKKX~0cXMje71R~6~vbIJqZ7O2zPzQfp~9y1ManPnfm49-RQF9a3N6A5pRiaKgNYVQ-rtZRiwKy3AU2AxPW6mzsH5SeR9J5Hih7CwTfn2G72DEIk8WrkP07w34WaCYxzoBcuMeZbo8ztelMaJR2etUpA__)" alt="pandacoin" width="300"/>
+<img src="https://media-hosting.imagekit.io//7b775aca1ca541e7/Picsart_25-02-15_16-49-23-474.png?Expires=1834260863&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bKahCdBfRC8MJspuUTK1v~rQMlFxMwSAv1pnun5iS4hUSLAcKfj6WdBiZD-gSwwtX-tVmPskpUZDwTigb8hAaKDBFKEdGRvp91hnTHD3QmQOONNPUoa2xwUG8owFZfBMlo-BzlaBgIg3US06MJK1cWhTYeoufuKxbjFLagXg2dK6xIoNEqcFl7F9HSMXolgKKX~0cXMje71R~6~vbIJqZ7O2zPzQfp~9y1ManPnfm49-RQF9a3N6A5pRiaKgNYVQ-rtZRiwKy3AU2AxPW6mzsH5SeR9J5Hih7CwTfn2G72DEIk8WrkP07w34WaCYxzoBcuMeZbo8ztelMaJR2etUpA__" alt="pandacoin" width="300"/>
 <br/><br/>
 Pandacoin Core [Pandacoin, ⱣDC]
 </h1>
