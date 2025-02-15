@@ -1,13 +1,13 @@
 <h1 align="center">
-<img src="https://i.imgur.com/a/EK4DSEB.png" alt="pandacoin" width="300"/>
+<img src="[https://i.imgur.com/a/EK4DSEB.png](https://media-hosting.imagekit.io//7b775aca1ca541e7/Picsart_25-02-15_16-49-23-474.png?Expires=1834260863&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=bKahCdBfRC8MJspuUTK1v~rQMlFxMwSAv1pnun5iS4hUSLAcKfj6WdBiZD-gSwwtX-tVmPskpUZDwTigb8hAaKDBFKEdGRvp91hnTHD3QmQOONNPUoa2xwUG8owFZfBMlo-BzlaBgIg3US06MJK1cWhTYeoufuKxbjFLagXg2dK6xIoNEqcFl7F9HSMXolgKKX~0cXMje71R~6~vbIJqZ7O2zPzQfp~9y1ManPnfm49-RQF9a3N6A5pRiaKgNYVQ-rtZRiwKy3AU2AxPW6mzsH5SeR9J5Hih7CwTfn2G72DEIk8WrkP07w34WaCYxzoBcuMeZbo8ztelMaJR2etUpA__)" alt="pandacoin" width="300"/>
 <br/><br/>
-Pepecoin Core [Pandacoin, ⱣDC]
+Pandacoin Core [Pandacoin, ⱣDC]
 </h1>
 
 选择语言: [EN](./README.md) 
 Pandacoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密货币。它被创建出于一个目的，就是创建一个像原始Dogecoin社区一样新奇有趣的社区。
 
-与之前的所有版本不同，Pepecoin是一个第一层的硬币。这意味着没有流动性池可以耗尽，没有列入黑名单的钱包，也没有令人困惑的智能合约。Pandacoin是一个简单的区块链。
+与之前的所有版本不同，Pandacoin是一个第一层的硬币。这意味着没有流动性池可以耗尽，没有列入黑名单的钱包，也没有令人困惑的智能合约。Pandacoin是一个简单的区块链。
 
 就像Dogecoin一样，Pandacoin Core软件允许任何人在Pandacoin区块链网络中操作节点，并使用Scrypt散列方法进行工作证明。它是从Bitcoin Core和其他加密货币中进行了改编。
 
@@ -17,7 +17,7 @@ Pandacoin是由2013年原始Dogecoin shibes之一创建的社区关注的加密�
 
 ## Dogecoin 差异
 
-Pepecoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试使 Pandacoin 保持与 Dogecoin 类似。
+Pandacoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试使 Pandacoin 保持与 Dogecoin 类似。
 
 变化：
 
