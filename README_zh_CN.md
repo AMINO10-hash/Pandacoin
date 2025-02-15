@@ -21,6 +21,7 @@ Pandacoin 是 Dogecoin 的一个分支。为了保持熟悉性，我们将尝试
 ## 用法 💻
 要开始使用Pandacoin Core，请参阅[安装指南](INSTALL.md)和[入门教程](doc/getting-started.md)。
 Pandacoin Core提供的JSON-RPC API是自说明的，可以使用`pepecoin-cli help`进行浏览，而每个命令的详细信息可以使用`pepecoin-cli help <command>`查看。或者，参阅[比特币核心文档](https://developer.bitcoin.org/reference/rpc/) - 其实施了类似的协议 - 以获得可浏览的版本。
+[![CMake on a single platform](https://github.com/AMINO10-hash/Pandacoin/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/AMINO10-hash/Pandacoin/actions/workflows/cmake-single-platform.yml)
 ### 端口
 
 Pandacoin Core默认使用端口`33874`进行对等通信，这对于同步“主网”区块链并了解新的交易和区块信息是必要的。此外，可以打开一个JSONRPC端口，默认情况下为主网节点的端口`33873`。强烈建议不要将RPC端口暴露在公共互联网上。
