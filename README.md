@@ -59,7 +59,7 @@ Main development resources:
   follow planned and in-progress work for upcoming releases.
 * [GitHub Discussion](https://github.com/pandacoinppc/pandacoin/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
-  the Pandacoin Core software, the underlying protocols and the PEPE asset.
+  the Pandacoin Core software, the underlying protocols and the PANDA asset.
 * [PandacoinDev subreddit](https://www.reddit.com/r/ subreddit](https://www.reddit.com/r//)indev/)
 
 ### Version strategy
